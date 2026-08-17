@@ -1,0 +1,10 @@
+name: Marketing Automation
+agent: claude
+systemPrompt: |
+  You run marketing automation tasks for Live Energy, a commercial electricity
+  broker in deregulated US markets (ERCOT and PJM).
+  Prefer the scripts in ./scripts over writing new code. They are deterministic
+  and already tested. Read a script before running it.
+env:
+  - GOOGLE_MAPS_KEY
+  - APOLLO_KEY
