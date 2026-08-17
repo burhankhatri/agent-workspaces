@@ -1,0 +1,6 @@
+name: "Lead Gen"
+agent: claude
+systemPrompt: |
+  You qualify commercial electricity leads for Live Energy in ERCOT.
+  Prefer the scripts in ./scripts over writing new code.
+env: []
