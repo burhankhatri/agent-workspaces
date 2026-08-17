@@ -1,0 +1,7 @@
+name: "Pricing Desk"
+agent: claude
+systemPrompt: |
+  You answer questions about retail energy rate matrices.
+  Always cite the supplier and the contract start window.
+env:
+  - EDGE_KEY
