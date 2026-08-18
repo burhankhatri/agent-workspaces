@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "campaign_id": "23859104827360514",
+      "campaign_name": "LEADGEN — Commercial Energy Audit — TX",
+      "effective_status": "ACTIVE",
+      "impressions": "742180",
+      "clicks": "14204",
+      "spend": "12840.55",
+      "date_start": "2026-07-19",
+      "date_stop": "2026-08-17",
+      "actions": [
+        { "action_type": "link_click", "value": "14204" },
+        { "action_type": "lead", "value": "486" },
+        { "action_type": "purchase", "value": "127" }
+      ],
+      "action_values": [
+        { "action_type": "purchase", "value": "104900.00" }
+      ]
+    },
+    {
+      "campaign_id": "23859104827360515",
+      "campaign_name": "RETARGET — Site Visitors 30d",
+      "effective_status": "ACTIVE",
+      "impressions": "318940",
+      "clicks": "9812",
+      "spend": "5218.40",
+      "date_start": "2026-07-19",
+      "date_stop": "2026-08-17",
+      "actions": [
+        { "action_type": "link_click", "value": "9812" },
+        { "action_type": "lead", "value": "302" },
+        { "action_type": "purchase", "value": "94" }
+      ],
+      "action_values": [
+        { "action_type": "purchase", "value": "81420.00" }
+      ]
+    },
+    {
+      "campaign_id": "23859104827360516",
+      "campaign_name": "PROSPECTING — Lookalike 1% — Facilities Managers",
+      "effective_status": "ACTIVE",
+      "impressions": "1204880",
+      "clicks": "11048",
+      "spend": "19420.75",
+      "date_start": "2026-07-19",
+      "date_stop": "2026-08-17",
+      "actions": [
+        { "action_type": "link_click", "value": "11048" },
+        { "action_type": "lead", "value": "214" },
+        { "action_type": "purchase", "value": "48" }
+      ],
+      "action_values": [
+        { "action_type": "purchase", "value": "38160.00" }
+      ]
+    },
+    {
+      "campaign_id": "23859104827360517",
+      "campaign_name": "AWARENESS — Instagram Reels — Q3",
+      "effective_status": "PAUSED",
+      "impressions": "884210",
+      "clicks": "4218",
+      "spend": "7140.20",
+      "date_start": "2026-07-19",
+      "date_stop": "2026-08-17",
+      "actions": [
+        { "action_type": "link_click", "value": "4218" },
+        { "action_type": "lead", "value": "38" }
+      ],
+      "action_values": []
+    }
+  ],
+  "paging": {
+    "cursors": { "before": "MAZDZD", "after": "MjQZD" }
+  }
+}
