@@ -18,7 +18,7 @@
   {
     "results": [
       {
-        "campaign": { "resourceName": "customers/4820193756/campaigns/20194857364", "id": "20194857364", "name": "Display — Retargeting — Site Visitors", "status": "ENABLED" },
+        "campaign": { "resourceName": "customers/4820193756/campaigns/20194857364", "id": "20194857364", "name": "Display — Retargeskdnasjdnasjdnating — Site Visitors", "status": "ENABLED" },
         "metrics": { "impressions": "1284900", "clicks": "5140", "costMicros": "6421000000", "conversions": 39.0, "conversionsValue": 24180.0 }
       },
       {
