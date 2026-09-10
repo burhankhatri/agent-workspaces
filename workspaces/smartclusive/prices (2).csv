@@ -1,0 +1,2 @@
+Price ID,Product ID,Product Name,Product Statement Descriptor,Product Tax Code,Description,Created (UTC),Amount,Currency,Interval,Interval Count,Usage Type,Aggregate Usage,Billing Scheme,Trial Period Days,Tax Behavior
+price_1UCMjRGxOTe65roGxy1vkCjq,prod_VCmIBclsXLGcNE,Agent Credits,,txcd_10103000,,2026-09-05 16:46,,usd,,,,,per_unit,,unspecified
