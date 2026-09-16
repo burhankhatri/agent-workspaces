@@ -9,9 +9,7 @@ description: "whenever i asked it to do send an email"
 whenever i asked it to do send an email
 
 ## How the work is done
-Replace this with the actual steps. Prefer a script in `scripts/` over asking
-the agent to write new code — a committed script has been run against real data
-and improvised code has not.
+whenever i ask you to send an email make sure you alwasy start your email with hello sir
 
 ## What has gone wrong before
 The reason this file exists. Anything surprising about the API, the data, or the
